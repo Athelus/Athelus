@@ -28,7 +28,7 @@ Based in Aberdeen, UK. Combining **21 years of high-stakes, highly regulated ope
 ---
 
 ## 📬 Connect With Me
-* **LinkedIn:** [Your LinkedIn URL]
+* **LinkedIn:** https://www.linkedin.com/in/stewart-cameron-a78a2770/
 * **TryHackMe Profile:** [Your THM Profile URL]
 
 
